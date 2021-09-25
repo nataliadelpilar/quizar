@@ -1,0 +1,17 @@
+JUEGO QUIZAR
+
+-El juego consiste en generar preguntas aleatoriamente las cuales tienen como respuesta seleccion multiple, donde una de ellas es correcta.
+-Cada pregunta esta clasificada dentro de uno de los 5 niveles
+-Si acierta cada nivel obtendra un premio diferente.
+nivel 1= 100
+nivel 2= 300
+nivel 3= 700
+nivel 4= 1500
+nivel 5= 5000 
+
+- si el usuario desea retirarse del juego antes de responder las 5 preguntas su puntaje sera igual a 0
+
+este archivo esta compuesto por 
+-2 aechivos python, en el archivo main se encuentra la estructura del juego, en el archivo preguntas se encuentra la seleccion de las preguntas aleaotriamente
+- 1 archivo json (preguntas.json) donde se encuentan almacenadas las preguntas, un total de 25
+-base de datos quizar
